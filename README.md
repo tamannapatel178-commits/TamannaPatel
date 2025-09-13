@@ -11,17 +11,15 @@
 ## 🔧 Skills & Technologies  
 - **Languages:** C, C++, Java, Python, JavaScript  
 - **Frontend:** HTML, CSS, React.js  
-- **Backend:** Node.js, Express.js  
-- **Database:** MySQL, MongoDB  
+- **Database:** MySQl.
 - **Tools:** Git, GitHub, VS Code  
 
 ---
 
 ## 📌 Projects  
-- 🛍️ **SPA Appointment System** – A full-stack web app for managing salon/spa appointments (React + Node.js).  
-- 📊 **Image Processing Project** – Implemented rigid transformations (reflection, rotation) in computer vision.  
-- 🌐 **Portfolio Website** – Personal website to showcase my work and projects.  
-
+- 🛍️ **SPA Appointment System** – A frontend web app for managing salon/spa appointments (React js).  
+  
+- Event Management system - A frontend web app for managing events (React js)
 ---
 
 ## 🎯 Interests  
