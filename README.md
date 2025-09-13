@@ -33,10 +33,5 @@
 ---
 
 ## 📫 Connect with Me  
-- 📧 Email: **your_email@example.com**  
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](#)  
-- 🌐 Portfolio: [yourportfolio.com](#)  
-
----
-
-⭐️ *Always open to learning new technologies and collaborating on projects!*
+- 📧 Email: tamannapatel178@gmail.com  
+- 💼 LinkedIn:   https://www.linkedin.com/in/patel-tamanna-163022383?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
