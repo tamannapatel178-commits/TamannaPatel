@@ -1,9 +1,9 @@
 # TamannaPatel
-7th Sem Computer Engg | Frontend Developer | React &amp; Node.js         
+8th Sem Computer Engg | Frontend Developer | React &amp; Node.js         
 
 👋 Hi, I'm Tamanna Patel  
 
-🎓 7th Semester **Computer Engineering Student** at *UPL University of Sustainable Technology*  
+🎓 8th Semester **Computer Engineering Student** at *UPL University of Sustainable Technology*  
 💻 Passionate about **Frontend Development** and building interactive web applications  
 
 ---
@@ -17,15 +17,16 @@
 ---
 
 ## 📌 Projects  
-- 🛍️ **SPA Appointment System** – A frontend web app for managing salon/spa appointments (React js).  
+- **SPA Appointment System** – A frontend web app for managing salon/spa appointments (React js).  
   
-- Event Management system - A frontend web app for managing events (React js)
----
+- **Event Management system** - A frontend web app for managing events (React js)
+
+- **Social Media Content Management System** - Developed a social media content management web app using React JS and Firebase.
 
 ## 🎯 Interests  
 - Frontend Development  
 - Web Technologies  
-- Computer Vision & AI  
+- UI/UX Design  
 - Open Source Contributions  
 
 ---
